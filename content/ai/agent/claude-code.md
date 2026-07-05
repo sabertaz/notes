@@ -290,6 +290,28 @@ grep -r "subprocess" .
 grep -r "eval" .
 ```
 
+## Loops
+
+[Loops](https://claude.com/blog/getting-started-with-loops)
+are agents repeating cycles of work until a stop condition is met:
+
+- `/goal`:
+  Iterate until verifiable condition or turn cap is reached.
+  Deterministic criteria (e.g. tests passed, score threshold) work best,
+  generalizes the DIY [Ralph loop](../prompt/recipes/ralph.md).
+  ```bash
+  /goal get the homepage Lighthouse score to 90 or above, stop after 5 tries
+  ```
+- `/loop`:
+  Rerun prompt on local interval, stops when your machine is off.
+  ```bash
+  /loop 5m check my PR, address review comments, and fix failing CI
+  ```
+- `/schedule`:
+  Move recurring routine to the cloud.
+  Combine with `/goal`, skills, and auto mode for proactive loops
+  (e.g. triage, migrations, dependency upgrades).
+
 ## Plugins
 
 Install [plugins](https://github.com/anthropics/claude-plugins-official)
