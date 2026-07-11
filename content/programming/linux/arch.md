@@ -141,7 +141,7 @@ sudo pacman -S --needed snapper snap-pac grub-btrfs inotify-tools \
   imagemagick imv chafa kimageformats resvg \
   ffmpeg mpv qt6-multimedia cava yt-dlp go-musicfox-git \
   lib32-nvidia-utils lib32-mesa lib32-vulkan-radeon vulkan-headers mesa-utils \
-  papirus-icon-theme firefox firefox-i18n-zh-cn chromium steam
+  papirus-icon-theme firefox firefox-i18n-zh-cn steam
 ```
 
 ```bash
@@ -202,7 +202,7 @@ sudo paccache -rk0  # 清理全部缓存
 ```bash
 paru -S --needed chsrc-bin shellcheck-bin libtexprintf \
   claude-code cc-switch-bin models-bin \
-  uudeck linuxqq wechat \
+  uudeck linuxqq wechat google-chrome-dev \
   wps-office-cn wps-office-mui-zh-cn wps-office-fonts ttf-wps-fonts \
   mpv-thumbfast-git mpv-modernz-git
 ```
