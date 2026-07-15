@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.0](https://github.com/sabertazimi/notes/compare/v1.3.0...v1.4.0) (2026-07-15)
+
+
+### :sparkles: Features
+
+* **agent-claude-code:** agentic loops ([fbb1642](https://github.com/sabertazimi/notes/commit/fbb16429e2e77e9ae31143eef9d1a8b5e25658bd))
+* **agent-instructions:** minimalism ladder ([0d76a71](https://github.com/sabertazimi/notes/commit/0d76a71a99f48a5ca1cb06da8633f585bc5f9bdc))
+* **agent-patterns:** autonomous coding control systems ([e486a82](https://github.com/sabertazimi/notes/commit/e486a8296ef227261be2124240d83a8d06a5e279))
+* **agent-patterns:** the art of loop engineering ([7188896](https://github.com/sabertazimi/notes/commit/7188896da1613f211ae4e37ab7ed36c22694a985))
+* **agent-toolchain:** development life cycle engineering skills ([97db426](https://github.com/sabertazimi/notes/commit/97db426051fb30df3153a9312fc296a570b60ca3))
+* **agent:** `DESIGN.md` plain-text design system ([ec833cb](https://github.com/sabertazimi/notes/commit/ec833cb046efd986744ae8c210178846be4c32a9))
+* **linux-arch:** AUR supply chain attack security audit ([5fe812b](https://github.com/sabertazimi/notes/commit/5fe812be56a4cd641b881648aed18bbdb888033c))
+* **linux-arch:** go-musicfox-git from archlinuxcn ([b1ddb8c](https://github.com/sabertazimi/notes/commit/b1ddb8cf95cddb6f860022fea9366d43cea32a74))
+* **linux-arch:** google-chrome-dev browser ([96d0daf](https://github.com/sabertazimi/notes/commit/96d0daf8cfb96c9476ea1c4a0ad86a2dab623651))
+* **vim-normal:** search word under cursor ([c80448a](https://github.com/sabertazimi/notes/commit/c80448a5e7da77fb489fbd400d396e25373e6e88))
+
+
+### :sparkles: Today I Learned
+
+* **agent-toolchain:** multi-agent frameworks ([ad36ae7](https://github.com/sabertazimi/notes/commit/ad36ae7f008e4b7d65b707f2a84d4adbb6faad0f))
+* **deps:** update dependencies (non-major) ([#751](https://github.com/sabertazimi/notes/issues/751)) ([fd3c41c](https://github.com/sabertazimi/notes/commit/fd3c41cacab2c1e3568e59ddc0b7bfc12abfe203))
+* **linux-arch:** remove `llmfit` package ([3e4e159](https://github.com/sabertazimi/notes/commit/3e4e159ea1691341615ab4ecb97a589f75a03447))
+
 ## [1.3.0](https://github.com/sabertazimi/notes/compare/v1.2.0...v1.3.0) (2026-06-15)
 
 
