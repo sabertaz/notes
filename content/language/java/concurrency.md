@@ -50,7 +50,7 @@ run 方法正常退出或抛出未捕获异常时, 进入(自然/意外)死亡�
 
 - 默认情况下继承父线程的优先级
 - 需防止低优先级线程被饿死(因此不要依赖优先级进行编程)
-- `MIN_PRIORITY`(1)~`NORM_PRIORITY`(5)~`MAX_PRIORITY`(10)
+- `MIN_PRIORITY`(1), `NORM_PRIORITY`(5), `MAX_PRIORITY`(10)
 - 每当线程调度器选择新线程时,首选具有较高优先级的线程
 
 ### Daemon

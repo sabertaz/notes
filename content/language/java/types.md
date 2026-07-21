@@ -25,7 +25,7 @@ tags: [Language, Java, Types, Primitive]
 
 ### float 型
 
-后缀 F:4 字节 -3403E38~3.403E38(有效位数 6~7 位)
+后缀 F:4 字节 `-3403E38` ~ `3.403E38` (有效位数 6 ~ 7 位)
 
 ```java
 float f = 1.2;    //ERROR
