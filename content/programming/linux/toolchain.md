@@ -74,23 +74,20 @@ while WinGet is app installer.
 Recommended software for Windows:
 
 ```bash
-winget install Rustlang.Rustup BellSoft.LibericaJDK.11 Tencent.WeixinDevTools
+echo "set bell-style none" >> ~/.inputrc
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 ```
 
 ```bash
-winget install Git.Git GitHub.cli Oven-sh.Bun CoreyButler.NVMforWindows astral-sh.uv
+winget install OpenJS.NodeJS pnpm.pnpm astral-sh.uv Rustlang.Rustup GoLang.Go BellSoft.LibericaJDK.11
 ```
 
 ```bash
-winget install Anthropic.ClaudeCode Neovim.Neovim Microsoft.VisualStudioCode ZedIndustries.Zed
+winget install Anthropic.ClaudeCode farion1231.CC-Switch Git.Git GitHub.cli Neovim.Neovim
 ```
 
 ```bash
-winget install kangfenmao.CherryStudio Microsoft.WindowsTerminal ImageMagick.ImageMagick Gyan.FFmpeg
-```
-
-```bash
-winget install ClashVergeRev.ClashVergeRev Google.Chrome Microsoft.OneDrive
+winget install ImageMagick.ImageMagick Gyan.FFmpeg
 ```
 
 ```bash
