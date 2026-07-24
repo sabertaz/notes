@@ -105,6 +105,16 @@ tmux show -g >> current.tmux.conf # export configuration
 
 :::
 
+## `Zellij`
+
+```kdl
+default_mode "locked"
+default_shell "C:\\Program Files\\Git\\bin\\bash.exe"
+pane_frames false
+theme "catppuccin-latte"
+theme_dark "catppuccin-mocha"
+```
+
 ## Windows
 
 Fix git bash flicker:
