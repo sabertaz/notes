@@ -16,7 +16,7 @@ gh auth login
 ```bash
 git config --global user.name "sabertazimi"
 git config --global user.email sabertazimi@gmail.com
-git config --global core.autocrlf false
+git config --global core.autocrlf input
 git config --global core.editor nvim
 git config --global credential.helper store
 git config --global color.ui true
