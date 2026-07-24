@@ -111,6 +111,7 @@ tmux show -g >> current.tmux.conf # export configuration
 default_mode "locked"
 default_shell "C:\\Program Files\\Git\\bin\\bash.exe"
 pane_frames false
+show_startup_tips false
 theme "catppuccin-latte"
 theme_dark "catppuccin-mocha"
 ```
