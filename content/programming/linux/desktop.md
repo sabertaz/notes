@@ -227,6 +227,16 @@ bars:
         - cava
 
 widgets:
+  clock:
+    type: yasb.clock.ClockWidget
+    options:
+      label: '{%m-%d %H:%M}<span>{alarm}</span>'
+      calendar:
+        show_holidays: true
+  glazewm_workspaces:
+    type: glazewm.workspaces.GlazewmWorkspacesWidget
+    options:
+      monitor_exclusive: true
   cava:
     type: yasb.cava.CavaWidget
     options:
