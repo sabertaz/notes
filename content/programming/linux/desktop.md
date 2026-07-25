@@ -200,6 +200,11 @@ window_rules:
       - window_process: {equals: yasb}
 
 keybindings:
+  - commands: [toggle-fullscreen --maximized]
+    bindings: [alt+f]
+  - commands: [toggle-fullscreen]
+    bindings: [alt+shift+f]
+
   - commands: [shell-exec firefox]
     bindings: [alt+shift+b, ctrl+alt+b]
   - commands: [shell-exec cmd /c start steam://run/294100]
