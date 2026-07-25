@@ -241,6 +241,7 @@ widgets:
       gradient_color_3: '#cba6f7'
       bars_number: 16
       bar_type: bars_mirrored
+      sleep_timer: 1
       hide_empty: true
 ```
 
