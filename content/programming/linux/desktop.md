@@ -179,7 +179,7 @@ and session [`~/.local/state/DankMaterialShell/session.json`](https://github.com
 
 ## `GlazeWM`
 
-Replace all `zebar` with `yasb`:
+Replace `zebar` with `yasb`:
 
 ```yaml
 general:
@@ -200,6 +200,30 @@ keybindings:
     bindings: [alt+shift+m, ctrl+alt+m]
   - commands: [shell-exec wt]
     bindings: [alt+shift+t, ctrl+alt+t]
+```
+
+`yasb` config:
+
+```yaml
+bars:
+  primary-bar:
+    widgets:
+      right:
+        - media
+        - cava
+
+widgets:
+  cava:
+    type: yasb.cava.CavaWidget
+    options:
+      gradient: 1
+      foreground: '#89b4fa'
+      gradient_color_1: '#74c7ec'
+      gradient_color_2: '#89b4fa'
+      gradient_color_3: '#cba6f7'
+      bars_number: 16
+      bar_type: bars_mirrored
+      hide_empty: true
 ```
 
 ## GNOME
