@@ -194,6 +194,10 @@ window_rules:
 keybindings:
   - commands: [shell-exec firefox]
     bindings: [alt+shift+b, ctrl+alt+b]
+  - commands: [shell-exec cmd /c start steam://run/294100]
+    bindings: [alt+shift+g, ctrl+alt+g]
+  - commands: [shell-exec cloudmusic.exe]
+    bindings: [alt+shift+m, ctrl+alt+m]
   - commands: [shell-exec wt]
     bindings: [alt+shift+t, ctrl+alt+t]
 ```
