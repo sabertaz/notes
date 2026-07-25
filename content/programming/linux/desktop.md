@@ -182,10 +182,6 @@ and session [`~/.local/state/DankMaterialShell/session.json`](https://github.com
 Replace `zebar` with `yasb`:
 
 ```yaml
-general:
-  startup_commands: [shell-exec yasb]
-  shutdown_commands: [shell-exec taskkill /IM yasb.exe /F]
-
 gaps:
   inner_gap: 6px
   outer_gap:
