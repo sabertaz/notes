@@ -186,6 +186,14 @@ general:
   startup_commands: [shell-exec yasb]
   shutdown_commands: [shell-exec taskkill /IM yasb.exe /F]
 
+gaps:
+  inner_gap: 6px
+  outer_gap:
+    top: 6px
+    right: 6px
+    bottom: 6px
+    left: 6px
+
 window_rules:
   - commands: [ignore]
     match:
@@ -199,7 +207,7 @@ keybindings:
   - commands: [shell-exec cloudmusic.exe]
     bindings: [alt+shift+m, ctrl+alt+m]
   - commands: [shell-exec wt]
-    bindings: [alt+shift+t, ctrl+alt+t]
+    bindings: [alt+shift+t, ctrl+alt+t, alt+enter]
 ```
 
 `yasb` config:
@@ -207,6 +215,11 @@ keybindings:
 ```yaml
 bars:
   primary-bar:
+    padding:
+      top: 6
+      left: 6
+      bottom: 0
+      right: 6
     widgets:
       right:
         - media
