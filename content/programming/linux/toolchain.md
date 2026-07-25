@@ -45,10 +45,14 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
 
 ```bash
-scoop search bat
-scoop install eza
-scoop info fzf
 scoop bucket add extras
+scoop bucket add nerd-fonts
+scoop install Maple-Mono-NF-CN tlrc less chsrc \
+  zoxide bat eza fd ripgrep fzf television jq jid fx \
+  procs duf dust gdu bottom fastfetch gping curlie doggo \
+  delta lazygit starship chezmoi \
+  gcc luarocks vcredist2022 tree-sitter \
+  yazi 7zip poppler imagemagick resvg ffmpeg
 ```
 
 ## `winget`
@@ -87,11 +91,11 @@ winget install Anthropic.ClaudeCode farion1231.CC-Switch Git.Git GitHub.cli Neov
 ```
 
 ```bash
-winget install ImageMagick.ImageMagick Gyan.FFmpeg
+winget install karlstav.cava glzr-io.glazewm AmN.yasb
 ```
 
 ```bash
-winget install NetEase.CloudMusic ByteDance.Feishu Tencent.QQ.NT Tencent.WeChat Tencent.WeType Valve.Steam
+winget install NetEase.CloudMusic Tencent.QQ.NT Tencent.WeChat Tencent.WeType Valve.Steam
 ```
 
 ## `mise`
