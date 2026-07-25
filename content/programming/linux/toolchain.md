@@ -75,7 +75,7 @@ Recommended software for Windows:
 
 ```bash
 echo "set bell-style none" >> ~/.inputrc
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it && ~/.bash_it/install.sh
 ```
 
 ```bash
