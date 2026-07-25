@@ -177,6 +177,27 @@ Config `DMS`
 settings [`~/.config/DankMaterialShell/settings.json`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/DankMaterialShell/modify_settings.json)
 and session [`~/.local/state/DankMaterialShell/session.json`](https://github.com/sabertazimi/dotfiles/blob/main/dot_local/state/DankMaterialShell/modify_session.json).
 
+## `GlazeWM`
+
+Replace all `zebar` with `yasb`:
+
+```yaml
+general:
+  startup_commands: [shell-exec yasb]
+  shutdown_commands: [shell-exec taskkill /IM yasb.exe /F]
+
+window_rules:
+  - commands: [ignore]
+    match:
+      - window_process: {equals: yasb}
+
+keybindings:
+  - commands: [shell-exec firefox]
+    bindings: [alt+shift+b, ctrl+alt+b]
+  - commands: [shell-exec wt]
+    bindings: [alt+shift+t, ctrl+alt+t]
+```
+
 ## GNOME
 
 ### GTK
