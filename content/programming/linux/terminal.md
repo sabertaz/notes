@@ -116,10 +116,12 @@ theme "catppuccin-latte"
 theme_dark "catppuccin-mocha"
 ```
 
-## Windows
+:::tip[Git Bash Flicker]
 
-Fix git bash flicker:
+Disable visual bell:
 
 ```bash
 bind 'set bell-style none'
 ```
+
+:::
