@@ -8,10 +8,10 @@
   "homepage": "https://notes.tazimi.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabertazimi/notes.git"
+    "url": "git+https://github.com/sabertaz/notes.git"
   },
   "bugs": {
-    "url": "https://github.com/sabertazimi/notes/issues"
+    "url": "https://github.com/sabertaz/notes/issues"
   },
   "keywords": [
     "Docusaurus",

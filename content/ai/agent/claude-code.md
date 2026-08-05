@@ -26,7 +26,7 @@ sed -i '0,/{/s/{/{\n  "hasCompletedOnboarding": true,/' ~/.claude.json
 ```bash
 claude plugin marketplace add anthropics/claude-plugins-official
 claude plugin marketplace add jarrodwatts/claude-hud
-claude plugin marketplace add sabertazimi/skills
+claude plugin marketplace add sabertaz/skills
 claude plugin install ralph-loop@claude-plugins-official
 claude plugin install superpowers@claude-plugins-official
 claude plugin install claude-hud@claude-hud
@@ -94,9 +94,9 @@ Use Claude Code as a [Unix-style utility](https://code.claude.com/docs/en/common
 claude -p "$REVIEW_PROMPT" > review-result.md 2>&1 || true
 ```
 
-See GitHub [code review action](https://github.com/sabertazimi/blog/pull/1572),
-[improved version](https://github.com/sabertazimi/blog/pull/1573),
-and [agent-native version](https://github.com/sabertazimi/blog/pull/1574).
+See GitHub [code review action](https://github.com/sabertaz/blog/pull/1572),
+[improved version](https://github.com/sabertaz/blog/pull/1573),
+and [agent-native version](https://github.com/sabertaz/blog/pull/1574).
 
 :::tip[Composable]
 

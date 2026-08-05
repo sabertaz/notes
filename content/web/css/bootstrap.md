@@ -7,7 +7,7 @@ tags: [Web, CSS, Bootstrap]
 
 ## Custom Theme
 
-- [Bootstrap CMS Theme](https://github.com/sabertazimi/hust-web/tree/main/css/bootstrap-cms)
+- [Bootstrap CMS Theme](https://github.com/sabertaz/hust-web/tree/main/css/bootstrap-cms)
 - [Advanced Webpack Configuration](https://medium.com/@estherfalayi/setting-up-webpack-for-bootstrap-4-and-font-awesome-eb276e04aaeb)
 
 ### Reboot

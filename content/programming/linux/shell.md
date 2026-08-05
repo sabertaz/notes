@@ -768,7 +768,7 @@ printf -- ' DONE!\n';
 
 ### `Zinit`
 
-Blazing fast `Zinit` configuration [`~/.zshrc`](https://github.com/sabertazimi/dotfiles/blob/main/dot_zshrc):
+Blazing fast `Zinit` configuration [`~/.zshrc`](https://github.com/sabertaz/dotfiles/blob/main/dot_zshrc):
 
 - Turbo mode support.
 - Lazy load modern CLI [tools](./toolchain.md).
@@ -809,8 +809,8 @@ bindkey "^O" autosuggest-accept
 ### Starship
 
 Set up [Starship](https://github.com/starship/starship)
-`Matugen` config [`~/.config/matugen/config.toml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/matugen/config.toml)
-and template [`~/.config/matugen/templates/starship.toml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/matugen/templates/starship.toml):
+`Matugen` config [`~/.config/matugen/config.toml`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/matugen/config.toml)
+and template [`~/.config/matugen/templates/starship.toml`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/matugen/templates/starship.toml):
 
 ```bash
 starship preset gruvbox-rainbow -o ~/.config/starship.toml

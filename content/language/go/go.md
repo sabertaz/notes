@@ -6,8 +6,8 @@ tags: [Language, Go]
 
 ## Installation
 
-Set up mirrors [`~/.config/go/env`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/go/env)
-and binary path [`~/.zshrc`](https://github.com/sabertazimi/dotfiles/blob/main/dot_zshrc):
+Set up mirrors [`~/.config/go/env`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/go/env)
+and binary path [`~/.zshrc`](https://github.com/sabertaz/dotfiles/blob/main/dot_zshrc):
 
 ```bash
 sudo pacman -S go

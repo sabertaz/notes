@@ -37,7 +37,7 @@ git clone --depth=1 https://github.com/AstroNvim/template ~/.config/nvim
 
 ## Extras Plugins
 
-Config `LazyVim` extras plugins [`~/.config/nvim/lazyvim.json`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/nvim/lazyvim.json),
+Config `LazyVim` extras plugins [`~/.config/nvim/lazyvim.json`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/nvim/lazyvim.json),
 installed in `~/.local/share/nvim/lazy/LazyVim/lua/lazyvim/plugins/extras`.
 
 ## Community Plugins
@@ -69,7 +69,7 @@ See plugins list on [Astro Community](https://github.com/AstroNvim/astrocommunit
 ## Linter
 
 Config ESLint LSP server
-[`~/.config/nvim/lua/plugins/lsp.lua`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/nvim/lua/plugins/lsp.lua):
+[`~/.config/nvim/lua/plugins/lsp.lua`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/nvim/lua/plugins/lsp.lua):
 
 - `<Sapce>xq`: show quick fix list.
 - `]q`: jump to next quick fix.
@@ -88,7 +88,7 @@ Config ESLint LSP server
 ### Option
 
 Enable spell options
-[`~/.config/nvim/lua/config/options.lua`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/nvim/lua/config/options.lua):
+[`~/.config/nvim/lua/config/options.lua`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/nvim/lua/config/options.lua):
 
 ```lua
 vim.opt.spelllang = { "en", "cjk" }
@@ -100,12 +100,12 @@ vim.opt.spelloptions = "camel"
 
 - `zg` 添加到字典 (`~/.config/nvim/spell/en.utf-8.add` 或 `~/.vim/spell/en.utf-8.add`).
 - Rebuild dictionary with `mkspell!`
-  [`~/.config/nvim/lua/config/keymaps.lua`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/nvim/lua/config/keymaps.lua).
+  [`~/.config/nvim/lua/config/keymaps.lua`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/nvim/lua/config/keymaps.lua).
 
 ## Markdown
 
-关闭 render [`~/.config/nvim/lua/plugins/markdown.lua`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/nvim/lua/plugins/markdown.lua)
-和 conceal [`~/.config/nvim/lua/config/autocmds.lua`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/nvim/lua/config/autocmds.lua).
+关闭 render [`~/.config/nvim/lua/plugins/markdown.lua`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/nvim/lua/plugins/markdown.lua)
+和 conceal [`~/.config/nvim/lua/config/autocmds.lua`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/nvim/lua/config/autocmds.lua).
 
 ## Clipboard
 

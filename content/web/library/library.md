@@ -2,8 +2,8 @@
 sidebar_label: Library
 author: Sabertazimi
 authorTitle: Web Developer
-authorURL: https://github.com/sabertazimi
-authorImageURL: https://github.com/sabertazimi.png
+authorURL: https://github.com/sabertaz
+authorImageURL: https://github.com/sabertaz.png
 tags: [Web, Library]
 ---
 

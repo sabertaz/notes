@@ -189,7 +189,7 @@ body {
 添加左进/右进动画, 当 slide 向右滑动时,
 水平的 scrollX 会直接滑到最右边,
 导致幻灯片浏览异常.
-[解决办法](https://github.com/sabertazimi/hust-web/blob/master/css/target-slide/index.js)
+[解决办法](https://github.com/sabertaz/hust-web/blob/master/css/target-slide/index.js)
 如下:
 
 ```ts

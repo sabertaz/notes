@@ -233,7 +233,7 @@ Sandbox('dom', 'event', (box) => {
 - 模块第一次加载后会被缓存, 后续加载会取得缓存的模块.
 - 模块加载是模块系统执行的同步操作, `require()` 可以位于条件语句中.
 
-[Minimal CJS bundler](https://github.com/sabertazimi/hust-web/blob/v2.7.0/js/bundler/index.js):
+[Minimal CJS bundler](https://github.com/sabertaz/hust-web/blob/v2.7.0/js/bundler/index.js):
 
 ```ts
 require.cache = Object.create(null)

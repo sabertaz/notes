@@ -503,4 +503,4 @@ def demo_qwen() -> None:
 - API reference [documentation](https://reference.langchain.com)
 - Dive into [LangGraph](https://github.com/luochang212/dive-into-langgraph)
 - Building agent with [LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph)
-- LangGraph [recipes](https://github.com/sabertazimi/lab/blob/main/packages/agent-cli/src/agent_cli/lang_graph.py)
+- LangGraph [recipes](https://github.com/sabertaz/lab/blob/main/packages/agent-cli/src/agent_cli/lang_graph.py)

@@ -2,7 +2,7 @@
 
 ## Request
 
-[Code review](https://github.com/sabertazimi/blog/pull/1572):
+[Code review](https://github.com/sabertaz/blog/pull/1572):
 
 ```md
 You are performing a comprehensive code review on this pull request.
@@ -64,7 +64,7 @@ Please be thorough but concise. Focus on actionable feedback that will improve c
 
 ## Confidence Scoring
 
-[Confidence scoring code review](https://github.com/sabertazimi/blog/pull/1573),
+[Confidence scoring code review](https://github.com/sabertaz/blog/pull/1573),
 based on [Anthropic code review plugin](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-review):
 
 ```md
@@ -113,7 +113,7 @@ If no issues with 80+ confidence are found, post a positive review comment.
 
 ## Agent-Native
 
-[Agent-native code review](https://github.com/sabertazimi/blog/pull/1574):
+[Agent-native code review](https://github.com/sabertaz/blog/pull/1574):
 
 ```md
 REPO: ${{ github.repository }}

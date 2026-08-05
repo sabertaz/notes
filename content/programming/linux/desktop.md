@@ -56,11 +56,11 @@ exit
 
 ## Locale
 
-- Config `fcitx5` key [`~/.config/fcitx5/config`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/private_fcitx5/private_config),
-  profile [`~/.config/fcitx5/profile`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/private_fcitx5/private_profile),
-  and UI [`~/.config/fcitx5/conf/classicui.conf`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/private_fcitx5/private_conf/private_classicui.conf).
-- Config rime recipe [`~/.local/share/fcitx5/rime/default.custom.yaml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_local/share/private_fcitx5/rime/default.custom.yaml)
-  and grammar [`~/.local/share/fcitx5/rime/rime_ice.custom.yaml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_local/share/private_fcitx5/rime/rime_ice.custom.yaml).
+- Config `fcitx5` key [`~/.config/fcitx5/config`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/private_fcitx5/private_config),
+  profile [`~/.config/fcitx5/profile`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/private_fcitx5/private_profile),
+  and UI [`~/.config/fcitx5/conf/classicui.conf`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/private_fcitx5/private_conf/private_classicui.conf).
+- Config rime recipe [`~/.local/share/fcitx5/rime/default.custom.yaml`](https://github.com/sabertaz/dotfiles/blob/main/dot_local/share/private_fcitx5/rime/default.custom.yaml)
+  and grammar [`~/.local/share/fcitx5/rime/rime_ice.custom.yaml`](https://github.com/sabertaz/dotfiles/blob/main/dot_local/share/private_fcitx5/rime/rime_ice.custom.yaml).
 
 :::tip[Lunar]
 
@@ -100,13 +100,13 @@ glxinfo | grep "direct rendering" # Yes: 3D 硬件加速正常
 
 ## Niri
 
-- Config environment [`~/.config/environment.d/90-dms.conf`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/environment.d/90-dms.conf).
-- Config niri [`~/.config/niri/config.kdl`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/niri/modify_config.kdl).
-- Config keys [`~/.config/niri/dms/binds.kdl`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/niri/dms/binds.kdl).
+- Config environment [`~/.config/environment.d/90-dms.conf`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/environment.d/90-dms.conf).
+- Config niri [`~/.config/niri/config.kdl`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/niri/modify_config.kdl).
+- Config keys [`~/.config/niri/dms/binds.kdl`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/niri/dms/binds.kdl).
 
 ### Hotkeys
 
-[`~/.config/niri/dms/binds.kdl`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/niri/dms/binds.kdl):
+[`~/.config/niri/dms/binds.kdl`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/niri/dms/binds.kdl):
 
 - `Super`+`Shift`+`/` for important hotkeys
 - Launcher: `Super`+`d`
@@ -174,8 +174,8 @@ window-rule {
 ### `DMS`
 
 Config `DMS`
-settings [`~/.config/DankMaterialShell/settings.json`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/DankMaterialShell/modify_settings.json)
-and session [`~/.local/state/DankMaterialShell/session.json`](https://github.com/sabertazimi/dotfiles/blob/main/dot_local/state/DankMaterialShell/modify_session.json).
+settings [`~/.config/DankMaterialShell/settings.json`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/DankMaterialShell/modify_settings.json)
+and session [`~/.local/state/DankMaterialShell/session.json`](https://github.com/sabertaz/dotfiles/blob/main/dot_local/state/DankMaterialShell/modify_session.json).
 
 ## `GlazeWM`
 
@@ -319,7 +319,7 @@ Desktop shortcut located in `/usr/share/applications`.
 ## MIME
 
 Set [default MIME apps](https://specifications.freedesktop.org/mime-apps/latest/default.html)
-[`~/.config/mimeapps.list`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/mimeapps.list):
+[`~/.config/mimeapps.list`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/mimeapps.list):
 
 ```bash
 xdg-mime default nvim.desktop application/javascript

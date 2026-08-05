@@ -230,7 +230,7 @@ paru -Qm
 paru -Ps
 ```
 
-Install, remove, and browse packages with [`fzf`](https://github.com/sabertazimi/dotfiles/blob/main/dot_zshrc).
+Install, remove, and browse packages with [`fzf`](https://github.com/sabertaz/dotfiles/blob/main/dot_zshrc).
 
 :::danger[Supply Chain Attack]
 

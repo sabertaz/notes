@@ -129,7 +129,7 @@ For `float` element:
 
 :::
 
-[圣杯布局](https://github.com/sabertazimi/hust-web/blob/main/ife/2018/basic/layout/index.css):
+[圣杯布局](https://github.com/sabertaz/hust-web/blob/main/ife/2018/basic/layout/index.css):
 
 1. HTML: `.middle` first.
 2. Padding:

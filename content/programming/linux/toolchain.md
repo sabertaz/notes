@@ -173,7 +173,7 @@ winget install BurntSushi.ripgrep.MSVC
 scoop install ripgrep
 ```
 
-Config with [`export RIPGREP_CONFIG_PATH="$HOME/.ripgreprc"`](https://github.com/sabertazimi/dotfiles/blob/main/dot_ripgreprc):
+Config with [`export RIPGREP_CONFIG_PATH="$HOME/.ripgreprc"`](https://github.com/sabertaz/dotfiles/blob/main/dot_ripgreprc):
 
 ```bash
 vim $(rg text -l)
@@ -190,7 +190,7 @@ winget install fzf
 scoop install fzf
 ```
 
-Config with [`FZF_DEFAULT_COMMAND`](https://github.com/sabertazimi/dotfiles/blob/main/dot_zshrc):
+Config with [`FZF_DEFAULT_COMMAND`](https://github.com/sabertaz/dotfiles/blob/main/dot_zshrc):
 
 - `ctrl-r`: find commands.
 - `ctrl-t`: find files and directories.
@@ -230,7 +230,7 @@ like `cargo-crates`, `gh-issues`, `pacman-packages`:
 tv update-channels
 ```
 
-Custom `AUR` channel [`~/.config/television/cable/aur.toml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/television/cable/aur.toml).
+Custom `AUR` channel [`~/.config/television/cable/aur.toml`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/television/cable/aur.toml).
 
 ## `jq`
 
@@ -318,7 +318,7 @@ systemctl --user enable --now ydotool.service
 
 - [macOS](https://github.com/mathiasbynens/dotfiles)
 - [Linux](https://github.com/thoughtbot/dotfiles)
-- [Arch](https://github.com/sabertazimi/dotfiles)
+- [Arch](https://github.com/sabertaz/dotfiles)
 - [Ubuntu](https://github.com/tracyone/oh-my-ubuntu)
 
 ## References

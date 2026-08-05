@@ -7,7 +7,7 @@ tags: [AI, Language, Python, Toolchain, UV]
 
 ## Installation
 
-Set up mirrors and shell completion [`~/.zshrc`](https://github.com/sabertazimi/dotfiles/blob/main/dot_zshrc):
+Set up mirrors and shell completion [`~/.zshrc`](https://github.com/sabertaz/dotfiles/blob/main/dot_zshrc):
 
 ```bash
 sudo pacman -S uv

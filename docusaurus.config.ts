@@ -37,7 +37,7 @@ const config: Config = {
           path: 'content',
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/sabertazimi/notes/edit/main/',
+          editUrl: 'https://github.com/sabertaz/notes/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           remarkPlugins: [remarkMath],
@@ -130,7 +130,7 @@ const config: Config = {
           activeBasePath: 'web/library',
         },
         {
-          href: 'https://github.com/sabertazimi/notes',
+          href: 'https://github.com/sabertaz/notes',
           label: 'GitHub',
           position: 'right',
         },
@@ -172,7 +172,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/sabertazimi',
+              href: 'https://github.com/sabertaz',
             },
             {
               label: 'X',
@@ -197,27 +197,27 @@ const config: Config = {
           items: [
             {
               label: 'Next.js Blog',
-              href: 'https://github.com/sabertazimi/blog',
+              href: 'https://github.com/sabertaz/blog',
             },
             {
               label: 'Lab',
-              href: 'https://github.com/sabertazimi/lab',
+              href: 'https://github.com/sabertaz/lab',
             },
             {
               label: 'Bod CLI',
-              href: 'https://github.com/sabertazimi/bod',
+              href: 'https://github.com/sabertaz/bod',
             },
             {
               label: 'Dotfiles',
-              href: 'https://github.com/sabertazimi/dotfiles',
+              href: 'https://github.com/sabertaz/dotfiles',
             },
             {
               label: 'LaTeX Snippets',
-              href: 'https://github.com/sabertazimi/LaTeX-snippets',
+              href: 'https://github.com/sabertaz/LaTeX-snippets',
             },
             {
               label: 'HUST Lab',
-              href: 'https://github.com/sabertazimi/hust-lab',
+              href: 'https://github.com/sabertaz/hust-lab',
             },
           ],
         },

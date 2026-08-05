@@ -7,7 +7,7 @@ tags: [Language, Rust, Toolchain]
 
 ## Installation
 
-Set up mirrors [`~/.cargo/config.toml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_cargo/config.toml):
+Set up mirrors [`~/.cargo/config.toml`](https://github.com/sabertaz/dotfiles/blob/main/dot_cargo/config.toml):
 
 ```bash
 # curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh

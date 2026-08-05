@@ -26,7 +26,7 @@ tags: [Programming, OS, Linux, Terminal, Tmux]
 
 ### Configuration
 
-Config fonts and shaders [`~/.config/ghostty/config`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/ghostty/config).
+Config fonts and shaders [`~/.config/ghostty/config`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/ghostty/config).
 
 ### Hotkeys
 
@@ -35,7 +35,7 @@ Config fonts and shaders [`~/.config/ghostty/config`](https://github.com/saberta
 
 ### Shell Integration
 
-Source Ghostty shell integration [manually](https://github.com/sabertazimi/dotfiles/blob/main/dot_zshrc)
+Source Ghostty shell integration [manually](https://github.com/sabertaz/dotfiles/blob/main/dot_zshrc)
 for tmux.
 
 ## Tmux
@@ -49,9 +49,9 @@ tmux show -g >> current.tmux.conf # export configuration
 
 ### Setup
 
-- Set up tmux [`~/.config/tmux/tmux.conf`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/tmux/tmux.conf).
-- Set up `Matugen` config [`~/.config/matugen/config.toml`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/matugen/config.toml)
-  and template [`~/.config/matugen/templates/tmux.conf`](https://github.com/sabertazimi/dotfiles/blob/main/dot_config/matugen/templates/tmux.conf).
+- Set up tmux [`~/.config/tmux/tmux.conf`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/tmux/tmux.conf).
+- Set up `Matugen` config [`~/.config/matugen/config.toml`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/matugen/config.toml)
+  and template [`~/.config/matugen/templates/tmux.conf`](https://github.com/sabertaz/dotfiles/blob/main/dot_config/matugen/templates/tmux.conf).
 
 ### Session
 
@@ -60,7 +60,7 @@ tmux show -g >> current.tmux.conf # export configuration
 - `s`: list sessions
 - `$`: rename the current session
 - `d`: detach from the current session
-- Auto attach tmux session for terminal [`~/.local/bin/ghostty-tmux.sh`](https://github.com/sabertazimi/dotfiles/blob/main/dot_local/bin/executable_ghostty-tmux.sh).
+- Auto attach tmux session for terminal [`~/.local/bin/ghostty-tmux.sh`](https://github.com/sabertaz/dotfiles/blob/main/dot_local/bin/executable_ghostty-tmux.sh).
 
 ### Window
 
