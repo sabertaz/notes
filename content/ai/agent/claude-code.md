@@ -34,7 +34,6 @@ claude plugin install sabertaz@sabertaz
 ```
 
 ```bash
-pnpm dlx skills add anthropics/skills -s skill-creator -a claude-code codex opencode -g -y
 pnpm dlx skills add mattpocock/skills -s grill-me grill-with-docs -a claude-code codex opencode -g -y
 pnpm dlx skills add vercel-labs/skills -s find-skills -a claude-code codex opencode -g -y
 pnpm dlx skills add vercel-labs/agent-skills -s "*" -a claude-code codex opencode -g -y
