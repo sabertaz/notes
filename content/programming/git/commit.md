@@ -27,7 +27,7 @@ pnpm add -D commit-and-tag-version
 ```
 
 ```bash
-pnpx commitizen init cz-conventional-changelog --save-dev --save-exact
+pnpm dlx commitizen init cz-conventional-changelog --save-dev --save-exact
 ```
 
 ```md

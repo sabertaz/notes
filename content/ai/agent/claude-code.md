@@ -34,13 +34,13 @@ claude plugin install sabertaz@sabertaz
 ```
 
 ```bash
-pnpx skills add anthropics/skills -s skill-creator -a claude-code codex opencode -g -y
-pnpx skills add mattpocock/skills -s grill-me grill-with-docs -a claude-code codex opencode -g -y
-pnpx skills add vercel-labs/skills -s find-skills -a claude-code codex opencode -g -y
-pnpx skills add vercel-labs/agent-skills -s "*" -a claude-code codex opencode -g -y
-pnpx skills add multica-ai/andrej-karpathy-skills -s "*" -a claude-code codex opencode -g -y
-pnpx skills add nextlevelbuilder/ui-ux-pro-max-skill -s "*" -a claude-code codex opencode -g -y
-pnpx skills add upstash/context7 -s find-docs -a claude-code codex opencode -g -y
+pnpm dlx skills add anthropics/skills -s skill-creator -a claude-code codex opencode -g -y
+pnpm dlx skills add mattpocock/skills -s grill-me grill-with-docs -a claude-code codex opencode -g -y
+pnpm dlx skills add vercel-labs/skills -s find-skills -a claude-code codex opencode -g -y
+pnpm dlx skills add vercel-labs/agent-skills -s "*" -a claude-code codex opencode -g -y
+pnpm dlx skills add multica-ai/andrej-karpathy-skills -s "*" -a claude-code codex opencode -g -y
+pnpm dlx skills add nextlevelbuilder/ui-ux-pro-max-skill -s "*" -a claude-code codex opencode -g -y
+pnpm dlx skills add upstash/context7 -s find-docs -a claude-code codex opencode -g -y
 ```
 
 :::tip[Update]
@@ -50,7 +50,7 @@ claude plugin update ralph-loop@claude-plugins-official
 claude plugin update superpowers@claude-plugins-official
 claude plugin update claude-hud@claude-hud
 claude plugin update sabertaz@sabertaz
-pnpx skills update
+pnpm dlx skills update
 ```
 
 :::
