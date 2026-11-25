@@ -1,7 +1,7 @@
 import solution from './0342'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description power-of-four

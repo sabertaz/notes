@@ -579,7 +579,7 @@ func child() {
     cmd.Stderr = os.Stderr
 
     must(syscall.Sethostname([]byte("mocker")))
-    must(syscall.Chroot("/home/sabertazimi/rootfs"))
+    must(syscall.Chroot("/home/sabertaz/rootfs"))
     must(syscall.Chdir("/"))
     must(syscall.Mount("proc", "proc", "proc", 0, ""))
     must(cmd.Run())
@@ -596,7 +596,7 @@ func must(err error) {
 ### Chroot
 
 ```go
-must(syscall.Chroot("/home/sabertazimi/rootfs"))
+must(syscall.Chroot("/home/sabertaz/rootfs"))
 must(syscall.Chdir("/"))
 must(syscall.Mount("proc", "proc", "proc", 0, ""))
 ```
@@ -642,12 +642,12 @@ echo 21497 >/sys/fs/cgroup/cpu/loop/tasks
 func cg() {
     cgroups := "/sys/fs/cgroup/"
     pids := filepath.Join(cgroups, "pids")
-    os.Mkdir(filepath.Join(pids, "sabertazimi"), 0755)
-    must(ioutil.WriteFile(filepath.Join(pids, "sabertazimi/pids.max"),
+    os.Mkdir(filepath.Join(pids, "sabertaz"), 0755)
+    must(ioutil.WriteFile(filepath.Join(pids, "sabertaz/pids.max"),
       []byte("20"), 0700))
-    must(ioutil.WriteFile(filepath.Join(pids, "sabertazimi/notify_on_release"),
+    must(ioutil.WriteFile(filepath.Join(pids, "sabertaz/notify_on_release"),
       []byte("1"), 0700))
-    must(ioutil.WriteFile(filepath.Join(pids, "sabertazimi/cgroup.procs"),
+    must(ioutil.WriteFile(filepath.Join(pids, "sabertaz/cgroup.procs"),
       []byte(strconv.Itoa(os.Getpid())), 0700))
 }
 ```

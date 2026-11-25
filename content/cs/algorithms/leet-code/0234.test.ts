@@ -2,7 +2,7 @@ import solution from './0234'
 import { arrayToList } from './List'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description palindrome-linked-list

@@ -1,7 +1,7 @@
 import solution from './0136'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description single-number

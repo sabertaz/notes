@@ -1,7 +1,7 @@
 import solution from './0190'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description reverse-bits

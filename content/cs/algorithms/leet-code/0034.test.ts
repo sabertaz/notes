@@ -1,7 +1,7 @@
 import solution from './0034'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description find-first-and-last-position-of-element-in-sorted-array

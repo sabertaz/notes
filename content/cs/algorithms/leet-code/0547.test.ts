@@ -1,7 +1,7 @@
 import solution from './0547'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description number-of-provinces

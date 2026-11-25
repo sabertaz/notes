@@ -1,7 +1,7 @@
 import solution from './0220'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description contains-duplicate-iii

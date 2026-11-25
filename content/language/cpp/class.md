@@ -151,7 +151,7 @@ String::~String() {
 
 ### Stack and Heap
 
-- string str("sabertazimi") 创建在栈上, 自动析构
+- string str("sabertaz") 创建在栈上, 自动析构
 - new/malloc 返回堆指针, delete/free 的对象是**堆指针**/**(&引用变量)**, 完全由程序员管理创建与回收
 
 ```cpp

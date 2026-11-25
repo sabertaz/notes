@@ -1,7 +1,7 @@
 import solution from './0459'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description repeat-substring-pattern

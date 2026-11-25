@@ -1,7 +1,7 @@
 import solution from './0070'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description climbing-stairs

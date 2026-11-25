@@ -2,7 +2,7 @@ import solution from './0113'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description path-sum-ii

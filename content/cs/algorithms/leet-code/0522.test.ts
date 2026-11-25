@@ -1,7 +1,7 @@
 import solution from './0522'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description longest-uncommon-subsequence-ii

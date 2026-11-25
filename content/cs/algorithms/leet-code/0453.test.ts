@@ -1,7 +1,7 @@
 import solution from './0453'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description minimum-moves-to-equal-array-elements

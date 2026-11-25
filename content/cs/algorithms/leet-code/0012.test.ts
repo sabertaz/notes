@@ -1,7 +1,7 @@
 import solution from './0012'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description integer-to-roman

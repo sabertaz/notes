@@ -3,7 +3,7 @@ import solution from './0235'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description lowest-common-ancestor-of-a-binary-search-tree

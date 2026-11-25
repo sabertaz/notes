@@ -59,7 +59,7 @@ GraphQL [solves](https://mxstbr.com/thoughts/graphql):
     "site": {
       "id": "Site",
       "siteMetadata": {
-        "author": "sabertazimi"
+        "author": "sabertaz"
       },
       "host": "localhost",
       "port": "8000",

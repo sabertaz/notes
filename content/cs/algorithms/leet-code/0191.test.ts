@@ -1,7 +1,7 @@
 import solution from './0191'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description number-of-1-bits

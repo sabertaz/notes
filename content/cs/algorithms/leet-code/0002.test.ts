@@ -2,7 +2,7 @@ import solution from './0002'
 import { arrayToList } from './List'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description add-two-numbers

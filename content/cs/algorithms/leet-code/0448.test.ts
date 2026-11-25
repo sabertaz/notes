@@ -1,7 +1,7 @@
 import solution from './0448'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description find-all-number-disappeared-in-an-array

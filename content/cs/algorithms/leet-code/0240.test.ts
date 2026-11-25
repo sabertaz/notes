@@ -1,7 +1,7 @@
 import solution from './0240'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description search-a-2d-matrix-ii

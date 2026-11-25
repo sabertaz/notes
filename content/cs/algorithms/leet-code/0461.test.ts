@@ -1,7 +1,7 @@
 import solution from './0461'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description hamming-distance

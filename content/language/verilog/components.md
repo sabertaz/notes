@@ -54,7 +54,7 @@ end
 ```verilog
 /**
  * @module tick_divider
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief simple clock divider
  * @param DATA_WIDTH data width
@@ -83,7 +83,7 @@ endmodule
 ```verilog
 /**
  * @module integer_to_segment
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief raw data to segment encoder
  * @param DATA_WIDTH data width
@@ -123,7 +123,7 @@ endmodule
 ```verilog
 /**
  * @module data_to_segment
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief raw data to segment encoder
  * @param DATA_WIDTH data width
@@ -183,7 +183,7 @@ endmodule
 ```verilog
 /**
  * @module led_unit
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief led display module (bind to aNodes and cNodes in FPGA)
  * @param DATA_WIDTH data width
@@ -270,7 +270,7 @@ endmodule
 ```verilog
 /**
  * @module counter
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief up counter
  * @param DATA_WIDTH data width
@@ -305,7 +305,7 @@ endmodule // counter
 ```verilog
 /**
  * @module latch_counter
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief latch counter (latching when reaching max value)
  * @input clk clock signal
@@ -345,7 +345,7 @@ endmodule // latch_counter
 ```verilog
 /**
  * @module alu_flags
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief get flags after alu calculation
  * @param DATA_WIDTH data width
@@ -391,7 +391,7 @@ endmodule // alu_flags
 ```verilog
 /**
  * @module alu
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @param DATA_WIDTH data width
  * @input srcA A port data
@@ -461,7 +461,7 @@ endmodule // alu
 ```verilog
 /**
  * @module register
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief D flip flop
  * @param DATA_WIDTH data width
@@ -497,7 +497,7 @@ endmodule // register
 ```verilog
 /**
  * @module regFile
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief register files for MIPS CPU, contains 32 D flip-flop registers
  * @param DATA_WIDTH data width
@@ -559,7 +559,7 @@ endmodule // regFile
 ```verilog
 /**
  * @module imem
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief instruction cache memory (ROM)
  * @param DATA_WIDTH data width
@@ -589,7 +589,7 @@ endmodule // imem
 ```verilog
 /**
  * @module dmem
- * @author sabertazimi
+ * @author sabertaz
  * @email sabertazimi@gmail.com
  * @brief data cache memory (RAM)
  * @param DATA_WIDTH data width

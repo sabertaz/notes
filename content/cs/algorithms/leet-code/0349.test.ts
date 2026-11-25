@@ -1,7 +1,7 @@
 import solution from './0349'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description intersection-of-two-arrays

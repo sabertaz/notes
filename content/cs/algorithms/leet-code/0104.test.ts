@@ -2,7 +2,7 @@ import solution from './0104'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description maximum-depth-of-binary-tree

@@ -1,7 +1,7 @@
 import solution from './0198'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description house-robber

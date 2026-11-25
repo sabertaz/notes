@@ -1,7 +1,7 @@
 import solution from './0441'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description arranging-coins

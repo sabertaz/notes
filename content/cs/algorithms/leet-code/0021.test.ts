@@ -2,7 +2,7 @@ import solution from './0021'
 import { arrayToList } from './List'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description merge-two-sorted-lists

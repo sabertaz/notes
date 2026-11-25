@@ -1,7 +1,7 @@
 import solution from './0371'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description sum-of-two-integers

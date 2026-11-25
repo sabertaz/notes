@@ -1,7 +1,7 @@
 import solution from './0300'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description longest-increasing-subsequence

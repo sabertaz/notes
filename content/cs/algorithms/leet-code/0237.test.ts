@@ -3,7 +3,7 @@ import solution from './0237'
 import { arrayToList } from './List'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description delete-node-in-a-linked-list

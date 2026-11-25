@@ -1,7 +1,7 @@
 import solution from './0153'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description find-minimum-in-rotated-sorted-array

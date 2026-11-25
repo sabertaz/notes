@@ -1,7 +1,7 @@
 import solution from './0496'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description next-greater-element-i

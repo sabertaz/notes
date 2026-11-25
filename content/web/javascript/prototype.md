@@ -332,7 +332,7 @@ alert(a)
 
 ```ts
 const obj = {
-  name: 'sabertazimi',
+  name: 'sabertaz',
 }
 
 console.log(obj[[proto]] === Object.prototype) // true

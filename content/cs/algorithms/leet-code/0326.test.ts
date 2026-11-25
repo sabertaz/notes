@@ -1,7 +1,7 @@
 import solution from './0326'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description power-of-three

@@ -1,7 +1,7 @@
 import solution from './0541'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description reverse-string-ii

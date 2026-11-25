@@ -2,7 +2,7 @@ import solution from './0111'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description minimum-depth-of-binary-tree

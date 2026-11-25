@@ -1,7 +1,7 @@
 import solution from './0088'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description merge-sorted-array

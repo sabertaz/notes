@@ -1,7 +1,7 @@
 import solution from './0014'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description longest common prefix

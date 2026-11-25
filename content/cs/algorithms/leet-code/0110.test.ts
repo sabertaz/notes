@@ -2,7 +2,7 @@ import solution from './0110'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description balanced-binary-tree

@@ -1,7 +1,7 @@
 import solution from './0053'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description maximum-subarray

@@ -346,7 +346,7 @@ cat ~/.config/user-dirs.dirs
 ## Dotfiles
 
 ```bash
-chezmoi init sabertazimi
+chezmoi init sabertaz
 chezmoi diff
 chezmoi apply -v
 ```

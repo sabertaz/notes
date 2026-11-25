@@ -1,7 +1,7 @@
 import solution from './0058'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description length-of-last-word

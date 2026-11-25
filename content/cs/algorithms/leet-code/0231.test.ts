@@ -1,7 +1,7 @@
 import solution from './0231'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description power-of-two

@@ -41,10 +41,10 @@ Document Type Definition:
 ]>
 
 <Bookstore>
-    <Book ISBN="ISBN-0-23-23333-233" Price="233" Authors="Sabertazimi">
+    <Book ISBN="ISBN-0-23-23333-233" Price="233" Authors="sabertaz">
         <Title>Kind of sword</Title>
         <Authors>
-            <Author Ident="Sabertazimi">
+            <Author Ident="sabertaz">
                 <First_Name>Yilong</First_Name>
                 <Last_Name>Liu</Last_Name>
             </Author>

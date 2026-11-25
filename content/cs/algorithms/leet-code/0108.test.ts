@@ -2,7 +2,7 @@ import solution from './0108'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description convert-sorted-array-to-binary-search-tree

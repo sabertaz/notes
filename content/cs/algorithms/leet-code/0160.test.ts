@@ -2,7 +2,7 @@ import solution from './0160'
 import { arrayToList } from './List'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description intersection-of-two-linked-lists

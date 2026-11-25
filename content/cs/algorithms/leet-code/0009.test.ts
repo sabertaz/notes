@@ -1,7 +1,7 @@
 import solution from './0009'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description palindrome-number

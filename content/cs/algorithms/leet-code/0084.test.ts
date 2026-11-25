@@ -1,7 +1,7 @@
 import solution from './0084'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level hard
  * @description largest-rectangle-in-histogram

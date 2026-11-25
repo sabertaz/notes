@@ -66,7 +66,7 @@ goes wrong makes you stupid. Fix the problem yourself.
 ```md
 The Star And Thank Author License (SATA)
 
-Copyright (c) 2016 sabertazimi(sabertazimi@gmail.com)
+Copyright (c) 2016 sabertaz(sabertazimi@gmail.com)
 
 Project Url: https://github.com/sabertaz/notes
 
@@ -271,7 +271,7 @@ gh repo create --enable-issues=false --enable-wiki=false
 List repo:
 
 ```bash
-gh repo list sabertazimi
+gh repo list sabertaz
 ```
 
 ## Wiki
@@ -382,8 +382,8 @@ jobs:
           title: 'build(deps): update all dependencies'
           body: An updated update of all NPM dependencies.
           labels: dependencies
-          assignees: sabertazimi
-          reviewers: sabertazimi
+          assignees: sabertaz
+          reviewers: sabertaz
 ```
 
 ## Dependabot
@@ -401,7 +401,7 @@ updates:
     open-pull-requests-limit: 10
     versioning-strategy: increase
     assignees:
-      - sabertazimi
+      - sabertaz
 ```
 
 ## Copilot

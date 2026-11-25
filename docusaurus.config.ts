@@ -16,7 +16,7 @@ const config: Config = {
   baseUrl: ci.GITHUB_ACTIONS ? '/notes/' : '/',
   onBrokenLinks: 'throw',
   favicon: 'img/logo.svg',
-  organizationName: 'sabertazimi',
+  organizationName: 'sabertaz',
   projectName: 'notes',
   future: {
     v4: true,

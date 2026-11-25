@@ -2,7 +2,7 @@ import solution from './0103'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description binary-tree-zigzag-order-traversal

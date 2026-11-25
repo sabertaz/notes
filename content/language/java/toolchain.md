@@ -73,7 +73,7 @@ apply plugin: 'java'
 
 jar {
     manifest {
-        attributes 'Main-Class': 'com.sabertazimi.tao.Tao'
+        attributes 'Main-Class': 'com.sabertaz.tao.Tao'
     }
 }
 ```

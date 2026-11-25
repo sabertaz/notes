@@ -2,7 +2,7 @@ import solution from './0106'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description construct-binary-tree-from-inorder-and-postorder-traversal

@@ -1,7 +1,7 @@
 import solution from './0119'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description pascals-triangle-ii

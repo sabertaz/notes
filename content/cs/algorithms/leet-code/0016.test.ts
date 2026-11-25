@@ -1,7 +1,7 @@
 import solution from './0016'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description 3sum-closest

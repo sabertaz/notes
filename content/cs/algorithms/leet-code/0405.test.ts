@@ -1,7 +1,7 @@
 import solution from './0405'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description convert-a-number-to-hexadecimal

@@ -1,7 +1,7 @@
 import solution from './0189'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description rotate-array

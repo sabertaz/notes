@@ -1,7 +1,7 @@
 import solution from './0035'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description search-insert-position

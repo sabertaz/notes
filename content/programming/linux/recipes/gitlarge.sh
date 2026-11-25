@@ -1,7 +1,7 @@
 #! /bin/sh
 #
 # gitpurge.sh
-# Copyright (C) 2016 sabertazimi <sabertazimi@gmail.com>
+# Copyright (C) 2016 sabertaz <sabertazimi@gmail.com>
 #
 # Distributed under terms of the MIT license.
 #

@@ -1,7 +1,7 @@
 import solution from './0205'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description isomorphic-strings

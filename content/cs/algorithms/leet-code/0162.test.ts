@@ -1,7 +1,7 @@
 import solution from './0162'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description find-peak-element

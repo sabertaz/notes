@@ -1,7 +1,7 @@
 import solution from './0026'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description remove-duplicates-from-sorted-array

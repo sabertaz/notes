@@ -1,7 +1,7 @@
 import solution from './0004'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level hard
  * @description median-of-two-sorted-arrays

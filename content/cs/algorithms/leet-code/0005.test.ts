@@ -1,7 +1,7 @@
 import solution from './0005'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description longest-palindromic-substring

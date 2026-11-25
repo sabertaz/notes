@@ -1,7 +1,7 @@
 import solution from './0292'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description nim-game

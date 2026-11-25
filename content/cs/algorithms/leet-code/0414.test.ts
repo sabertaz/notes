@@ -1,7 +1,7 @@
 import solution from './0414'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description third-maximum-number

@@ -1,7 +1,7 @@
 import solution from './0121'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description best-time-to-buy-and-sell-stock

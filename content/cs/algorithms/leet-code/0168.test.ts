@@ -1,7 +1,7 @@
 import solution from './0168'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description excel-sheet-column-title

@@ -1,7 +1,7 @@
 import solution from './0003'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description longest-substring-without-repeating-characters

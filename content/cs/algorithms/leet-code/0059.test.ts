@@ -1,7 +1,7 @@
 import solution from './0059'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description spiral-matrix-ii

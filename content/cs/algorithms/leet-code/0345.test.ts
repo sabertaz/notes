@@ -1,7 +1,7 @@
 import solution from './0345'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description reverse-vowels-of-a-string

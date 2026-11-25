@@ -1,7 +1,7 @@
 import solution from './0006'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description zigzag-conversion

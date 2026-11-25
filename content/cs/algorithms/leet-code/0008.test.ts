@@ -1,7 +1,7 @@
 import solution from './0008'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description string-to-integer-atoi

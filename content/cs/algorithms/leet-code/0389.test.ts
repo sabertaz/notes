@@ -1,7 +1,7 @@
 import solution from './0389'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description find-the-difference

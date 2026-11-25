@@ -264,7 +264,7 @@ app.get('*', (req, res) => {
 # always serve index.html for any request (react-router for single page application)
 root /var/www/blog/html/build;
 index index.html;
-server_name blog.sabertazimi.cn;
+server_name blog.tazimi.dev;
 
 location / {
    try_files $uri /index.html;

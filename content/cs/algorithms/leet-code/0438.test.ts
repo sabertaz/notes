@@ -1,7 +1,7 @@
 import solution from './0438'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description find-all-anagrams-in-a-string

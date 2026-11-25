@@ -1,7 +1,7 @@
 import solution from './0020'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description valid-parentheses

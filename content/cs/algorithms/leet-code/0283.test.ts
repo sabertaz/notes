@@ -1,7 +1,7 @@
 import solution from './0283'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description move-zeros

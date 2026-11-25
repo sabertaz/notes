@@ -14,13 +14,13 @@ sudo pacman -S chezmoi
 Set up new machine with single command:
 
 ```bash
-chezmoi init --apply -v sabertazimi
+chezmoi init --apply -v sabertaz
 ```
 
 Set up new machine from remote dotfiles:
 
 ```bash
-chezmoi init sabertazimi
+chezmoi init sabertaz
 chezmoi diff
 chezmoi apply -v
 chezmoi update -v

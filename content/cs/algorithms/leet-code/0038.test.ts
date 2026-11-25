@@ -1,7 +1,7 @@
 import solution from './0038'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description count-and-say

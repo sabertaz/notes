@@ -3,7 +3,7 @@ import { arrayToList } from './List'
 import { arrayToTree } from './Tree'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level medium
  * @description convert-sorted-list-to-binary-search-tree

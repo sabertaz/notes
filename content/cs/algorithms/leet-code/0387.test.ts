@@ -1,7 +1,7 @@
 import solution from './0387'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description first-unique-character-in-a-string

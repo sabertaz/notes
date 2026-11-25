@@ -1,9 +1,9 @@
 # Notes
 
 [![Author](https://img.shields.io/badge/author-sabertaz-lightgrey?style=for-the-badge)](https://github.com/sabertaz)
-[![LICENSE](https://img.shields.io/github/license/sabertazimi/notes?style=for-the-badge)](https://raw.githubusercontent.com/sabertazimi/notes/main/LICENSE)
-[![Coverage](https://img.shields.io/codecov/c/github/sabertazimi/notes?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertazimi/notes)
-[![CI](https://img.shields.io/github/actions/workflow/status/sabertazimi/notes/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/notes/actions/workflows/ci.yml)
+[![LICENSE](https://img.shields.io/github/license/sabertaz/notes?style=for-the-badge)](https://raw.githubusercontent.com/sabertaz/notes/main/LICENSE)
+[![Coverage](https://img.shields.io/codecov/c/github/sabertaz/notes?logo=codecov&style=for-the-badge)](https://codecov.io/gh/sabertaz/notes)
+[![CI](https://img.shields.io/github/actions/workflow/status/sabertaz/notes/ci.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/sabertaz/notes/actions/workflows/ci.yml)
 
 Personal [notes](https://notes.tazimi.dev): today I learned.
 

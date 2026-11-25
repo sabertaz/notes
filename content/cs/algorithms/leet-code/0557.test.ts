@@ -1,7 +1,7 @@
 import solution from './0557'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description reverse-words-in-a-string-iii

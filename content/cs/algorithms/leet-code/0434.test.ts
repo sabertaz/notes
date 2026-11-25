@@ -1,7 +1,7 @@
 import solution from './0434'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description number-of-segments-in-a-string

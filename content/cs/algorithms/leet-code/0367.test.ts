@@ -1,7 +1,7 @@
 import solution from './0367'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description valid-perfect-square

@@ -1,7 +1,7 @@
 import solution from './0172'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description factorial-trailing-zeroes

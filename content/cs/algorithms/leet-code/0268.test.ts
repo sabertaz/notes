@@ -1,7 +1,7 @@
 import solution from './0268'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description missing-number

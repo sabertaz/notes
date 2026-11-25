@@ -1,7 +1,7 @@
 import solution from './0263'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description ugly-number

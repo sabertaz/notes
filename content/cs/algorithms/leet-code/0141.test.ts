@@ -2,7 +2,7 @@ import solution from './0141'
 import { arrayToList } from './List'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description linked-list-cycle

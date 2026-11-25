@@ -1,7 +1,7 @@
 import solution from './0167'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description two-sum-ii-input-array-is-sorted

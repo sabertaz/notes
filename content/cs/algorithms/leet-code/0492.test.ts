@@ -1,7 +1,7 @@
 import solution from './0492'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description construct-the-rectangle

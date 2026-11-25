@@ -1,7 +1,7 @@
 import solution from './0485'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level easy
  * @description max-consecutive-ones

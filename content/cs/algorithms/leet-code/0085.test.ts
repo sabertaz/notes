@@ -1,7 +1,7 @@
 import solution from './0085'
 
 /**
- * @author sabertazimi
+ * @author sabertaz
  * @license MIT
  * @level hard
  * @description maximal-rectangle
